@@ -291,6 +291,8 @@ const styles = StyleSheet.create({
   header: {
     paddingHorizontal: Spacing.lg,
     paddingVertical: Spacing.md,
+      paddingTop: Spacing.lg,
+    paddingBottom: Spacing.md,
   },
   headerTitle: {
     fontSize: 28,

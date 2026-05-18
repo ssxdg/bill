@@ -171,6 +171,8 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     paddingHorizontal: Spacing.lg,
     paddingVertical: Spacing.md,
+      paddingTop: Spacing.lg,
+    paddingBottom: Spacing.md,
   },
   headerTitle: {
     fontSize: 28,
